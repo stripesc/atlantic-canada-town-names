@@ -2,10 +2,104 @@ available: true
 id: 1
 mainset:
 - names:
+  - name: Cape Breton
+    probability: 5
   - name: Halifax
+    probability: 5
+  - name: Queens
+    probability: 5
+  - name: West Hants
+    probability: 5
+  - name: Annapolis
+    probability: 5
+  - name: Colchester
+    probability: 5
+  - name: Cumberland
+    probability: 5
+  - name: Inverness
+    probability: 5
+  - name: Kings
+    probability: 5
+  - name: Pictou
+    probability: 5
+  - name: Richmond
+    probability: 5
+  - name: Antigonish
+    probability: 5
+  - name: Victoria
+    probability: 5
+  - name: Argyle
+    probability: 5
+  - name: Barrington
+    probability: 5
+  - name: Chester
+    probability: 5
+  - name: Clare
+    probability: 5
+  - name: Digby
+    probability: 5
+  - name: East Hants
+    probability: 5
+  - name: Guysborough
+    probability: 5
+  - name: Lunenburg
+    probability: 5
+  - name: Shelburne
+    probability: 5
+  - name: St. Mary's
+    probability: 4
+  - name: Yarmouth
+    probability: 5
+  - name: Amherst
     probability: 1
-  - name: Medford
+  - name: Annapolis Royal
+    probability: 1
+  - name: Antigonish
+    probability: 1
+  - name: Berwick
+    probability: 1
+  - name: Bridgewater
+    probability: 1
+  - name: Clark's Harbour
+    probability: 1
+  - name: Digby
+    probability: 1
+  - name: Kentville
+    probability: 1
+  - name: Lockeport
+    probability: 1
+  - name: Lunenburg
+    probability: 1
+  - name: Mahone Bay
+    probability: 1
+  - name: Middleton
+    probability: 1
+  - name: Mulgrave
+    probability: 1
+  - name: New Glasgow
+    probability: 1
+  - name: Oxford
+    probability: 1
+  - name: Pictou
+    probability: 1
+  - name: Port Hawkesbury
+    probability: 1
+  - name: Shelburne
+    probability: 1
+  - name: Stellarton
+    probability: 1
+  - name: Stewiacke
+    probability: 1
+  - name: Trenton
+    probability: 1
+  - name: Truro
+    probability: 1
+  - name: Westville
+    probability: 1
+  - name: Wolfville
+    probability: 1
+  - name: Yarmouth
     probability: 1
 name: Nova Scotia
-source: https://en.wikipedia.org/wiki/List_of_towns_in_Nova_Scotia#List
+source: https://en.wikipedia.org/wiki/List_of_municipalities_in_Nova_Scotia#List_of_municipalities
 subsets: []

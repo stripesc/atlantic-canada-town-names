@@ -1,0 +1,11 @@
+available: true
+id: 1
+mainset:
+- names:
+  - name: Halifax
+    probability: 1
+  - name: Medford
+    probability: 1
+name: Nova Scotia
+source: https://en.wikipedia.org/wiki/List_of_towns_in_Nova_Scotia#List
+subsets: []
